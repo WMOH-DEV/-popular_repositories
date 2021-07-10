@@ -1,0 +1,33 @@
+/*
+    owner       : Wael Mohamed
+    Project     : Discovering gitHub repositories
+ */
+
+.note{
+    position: absolute;
+    top: 67%;
+    left: 10%;
+    color: white;
+}
+
+@media screen and (max-width: 992px) {
+    .note{
+        top: 90%;
+    }
+
+}
+
+.search-btn{
+    min-height: 44px !important;
+}
+
+.awesome-icon{
+    top: 50%;
+    transform: translateY(-50%);
+    left: 10%;
+}
+
+.pl-40{
+    padding-left: 45px;
+}
+
