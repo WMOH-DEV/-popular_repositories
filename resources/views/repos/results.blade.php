@@ -61,7 +61,9 @@
                                     class="fas fa-external-link-alt"></i></a></td>
                     </tr>
                 @empty
-
+                <tr>
+                    <td colspan="6">لا يوجد نتائج حالياً</td>
+                </tr>
                 @endforelse
 
 
